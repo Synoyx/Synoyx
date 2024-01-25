@@ -2,7 +2,6 @@
 
 
 ### Visitor count
-<img src="https://profile-counter.glitch.me/Synoyx/count.svg" />
 
 <p align=center>
   <a href="https://github.com/Synoyx">
@@ -14,10 +13,9 @@
 </p>
 
 <!--
-<!-- Talking about you -->
+<img src="https://profile-counter.glitch.me/Synoyx/count.svg" />
 **Talking about Personal Stuffs:**
 
-<!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
