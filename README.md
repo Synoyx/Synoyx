@@ -3,7 +3,7 @@
 <h2 align="center"> Hi there !</h2>
 <p align="center">
   <samp>I'm Julien, welcome to my GitHub !
-I'm Julien, welcome to my GitHub! Here, you will find all my public projects, primarily focused on Blockchain, as I have been fully dedicated to this topic since the end of 2023. I have also worked on a variety of other exciting projects, including mobile apps in Flutter, video games, full-stack web development, DevOps, and much more that I maintain on my private GitLab. Feel free to contact me !
+Here, you will find all my public projects, primarily focused on Blockchain, as I have been fully dedicated to this topic since the end of 2023. I have also worked on a variety of other exciting projects, including mobile apps in Flutter, video games, full-stack web development, DevOps, and much more that I maintain on my private GitLab. Feel free to contact me !
   </samp>
   <br> <br>
   <p align=center>
