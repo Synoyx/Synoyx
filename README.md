@@ -32,7 +32,7 @@ Here, you will find all my public projects, primarily focused on Blockchain, as 
 
 <p align="center" style="margin-top: 40px;">
   <img src="https://image.noelshack.com/fichiers/2024/09/5/1709280791-capture-d-ecran-2024-03-01-a-09-12-57.png">
-  <p>Current NodeGuardians profile</p>
+  <p align="center">Current NodeGuardians profile</p>
 </p>
 
   <h3 style="margin-top: 40px;">⌨️ Programming langages</h3>
