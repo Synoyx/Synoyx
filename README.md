@@ -30,9 +30,10 @@ Here, you will find all my public projects, primarily focused on Blockchain, as 
 - 😆 &nbsp; Fun-Fact: I have a degree in video games, but my higher professional experience was working for the French army about space awareness !
 - 📫 &nbsp; How to reach me: please post an issue [here](https://github.com/Synoyx/Synoyx/issues), and I'll contact you as soon as I can !
 
-<p align=center style="margin-top: 40px;">
+<figure align=center style="margin-top: 40px;">
   <img src="https://image.noelshack.com/fichiers/2024/09/5/1709280791-capture-d-ecran-2024-03-01-a-09-12-57.png">
-</p>
+  <figcaption>Current NodeGuardians profile</figcaption>
+</figure>
 
   <h3 style="margin-top: 40px;">⌨️ Programming langages</h3>
 
